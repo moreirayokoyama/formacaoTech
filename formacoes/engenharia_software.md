@@ -12,3 +12,4 @@ Nesta formação o aluno recebe uma noção muito clara de como funciona um time
 - [Linguagem de Programação III - Go](../disciplinas/lng_prg_III-go.md)
 - [Linguagem de Programação IV - Javascript](../disciplinas//lng_prg_IV-javascript.md)
 - [Bancos de Dados II - PostgreSQL](../disciplinas/db_II-postgresql.md)
+- [Redes](../disciplinas/redes.md)
