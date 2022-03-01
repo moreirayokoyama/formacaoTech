@@ -1,5 +1,5 @@
 # Programação de Computadores
-[Voltar](../README.md)
+[Índice de Formações](../README.md)
 
 A primeira formação básica. Focada em apresentar a programação e tornar os conceitos fundamentais da área conhecidos pelo aludo.
 
